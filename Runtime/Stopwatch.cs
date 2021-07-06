@@ -20,6 +20,16 @@ namespace WaterKat.CustomTime
             return (currentTime - startTime)>=goalTime;
         }
 
+        public bool CheckForTimeAndContinue(float currentTime, float goalTime)
+        {
+            if ((currentTime - startTime) >= goalTime)
+            {
+                startTime += goalTime;
+                return true;
+            }
+            return false;
+        }
+
         public void RestartStopwatch(float startTime)
         {
             this.startTime = startTime;
