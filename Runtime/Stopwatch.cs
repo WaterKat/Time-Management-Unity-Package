@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace WaterKat.CustomTime
+namespace WaterKat.TimeManagement
 {
     [Serializable]
     public class Stopwatch

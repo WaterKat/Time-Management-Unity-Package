@@ -1,7 +1,7 @@
 {
-  "name": "com.waterkat.customtime",
-  "version": "1.0.0",
-  "displayName": "WaterKat Custom Time",
+  "name": "com.waterkat.timemanagement",
+  "version": "1.0.1",
+  "displayName": "WaterKat Time Management",
   "description": "This package allows you to manage time more easily in unity",
   "unity": "2021.1",
   "type": "library"

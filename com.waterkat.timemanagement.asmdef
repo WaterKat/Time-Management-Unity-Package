@@ -1,6 +1,6 @@
 {
-    "name": "com.waterkat.customtime",
-    "rootNamespace": "WaterKat.CustomTime",
+    "name": "com.waterkat.timemanagement",
+    "rootNamespace": "WaterKat.TimeManagement",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
