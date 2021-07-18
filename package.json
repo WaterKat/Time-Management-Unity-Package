@@ -4,5 +4,13 @@
   "displayName": "WaterKat Time Management",
   "description": "This package allows you to manage time more easily in unity",
   "unity": "2021.1",
-  "type": "library"
+  "type": "library",
+  "enableLockFile": true,
+  "resolutionStrategy": "highest",
+  "author": 
+  {
+    "name": "Jacob Vallecillo",
+    "email": "waterkatgames@gmail.com",
+    "url": "waterkatgames.com"
+  }
 }
